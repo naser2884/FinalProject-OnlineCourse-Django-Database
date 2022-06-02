@@ -28,7 +28,7 @@ DEBUG = True
 
 # <HINT> add your cloud host here
 ALLOWED_HOSTS = ['https://onlinecoursenasser.eu-gb.cf.appdomain.cloud', 'localhost',
-    'https://onlinecoursenasser.eu-gb.cf.appdomain.cloud/onlinecourse']
+    'https://onlinecoursenasser.eu-gb.cf.appdomain.cloud/onlinecourse', 'onlinecoursenasser.eu-gb.cf.appdomain.cloud']
 
 
 # Application definition
